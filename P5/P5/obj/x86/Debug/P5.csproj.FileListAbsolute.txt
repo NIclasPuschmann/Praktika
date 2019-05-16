@@ -1,0 +1,6 @@
+/Users/niclas/Projects/Cs/P5/P5/bin/Debug/P5.exe
+/Users/niclas/Projects/Cs/P5/P5/bin/Debug/P5.pdb
+/Users/niclas/Projects/Cs/P5/P5/obj/x86/Debug/P5.csprojAssemblyReference.cache
+/Users/niclas/Projects/Cs/P5/P5/obj/x86/Debug/P5.csproj.CoreCompileInputs.cache
+/Users/niclas/Projects/Cs/P5/P5/obj/x86/Debug/P5.exe
+/Users/niclas/Projects/Cs/P5/P5/obj/x86/Debug/P5.pdb
