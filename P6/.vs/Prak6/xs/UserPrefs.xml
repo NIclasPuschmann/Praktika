@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{103F88E9-20AC-4191-8B20-B84A7E6FC6FF}|Default">
+  <MonoDevelop.Ide.ItemProperties.Prak6 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Prak6/Program.cs">
+    <Files>
+      <File FileName="Prak6/Program.cs" Line="5" Column="2" />
+      <File FileName="Prak6/Bruch.cs" Line="8" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

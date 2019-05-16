@@ -1,0 +1,16 @@
+/Users/niclas/Projects/Prak6/Prak6/bin/Debug/Prak6.exe
+/Users/niclas/Projects/Prak6/Prak6/bin/Debug/Prak6.pdb
+/Users/niclas/Projects/Prak6/Prak6/obj/x86/Debug/Prak6.csprojAssemblyReference.cache
+/Users/niclas/Projects/Prak6/Prak6/obj/x86/Debug/Prak6.csproj.CoreCompileInputs.cache
+/Users/niclas/Projects/Prak6/Prak6/obj/x86/Debug/Prak6.exe
+/Users/niclas/Projects/Prak6/Prak6/obj/x86/Debug/Prak6.pdb
+U:/Dokumente/Sem4/C#/Prak6/Prak6/bin/Debug/Prak6.exe.config
+U:/Dokumente/Sem4/C#/Prak6/Prak6/obj/x86/Debug/Prak6.exe
+U:/Dokumente/Sem4/C#/Prak6/Prak6/obj/x86/Debug/Prak6.pdb
+/Users/niclas/Projects/Prak6 1.1/Prak6/bin/Debug/Prak6.exe.config
+/Users/niclas/Projects/Prak6 1.1/Prak6/bin/Debug/Prak6.exe
+/Users/niclas/Projects/Prak6 1.1/Prak6/bin/Debug/Prak6.pdb
+/Users/niclas/Projects/Prak6 1.1/Prak6/obj/x86/Debug/Prak6.csprojAssemblyReference.cache
+/Users/niclas/Projects/Prak6 1.1/Prak6/obj/x86/Debug/Prak6.csproj.CoreCompileInputs.cache
+/Users/niclas/Projects/Prak6 1.1/Prak6/obj/x86/Debug/Prak6.exe
+/Users/niclas/Projects/Prak6 1.1/Prak6/obj/x86/Debug/Prak6.pdb

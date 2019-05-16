@@ -1,0 +1,6 @@
+/Users/niclas/Projects/UebungCs/UebungCs/bin/Debug/UebungCs.exe
+/Users/niclas/Projects/UebungCs/UebungCs/bin/Debug/UebungCs.pdb
+/Users/niclas/Projects/UebungCs/UebungCs/obj/x86/Debug/CsPrakt1.csproj.CoreCompileInputs.cache
+/Users/niclas/Projects/UebungCs/UebungCs/obj/x86/Debug/UebungCs.exe
+/Users/niclas/Projects/UebungCs/UebungCs/obj/x86/Debug/UebungCs.pdb
+/Users/niclas/Projects/UebungCs/UebungCs/obj/x86/Debug/CsPrakt1.csprojAssemblyReference.cache
